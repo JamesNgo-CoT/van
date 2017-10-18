@@ -6,6 +6,8 @@
   ],
   "private": true,
   "dependencies": {
-    "core": "https://github.com/CityofToronto/corejs.git#5.0.1"
+    "core": "https://github.com/CityofToronto/corejs.git#5.x.x",
+    "datatables.net-dt": "^3.2.2",
+    "fontawesome": "https://github.com/FortAwesome/Font-Awesome.git"
   }
 }
